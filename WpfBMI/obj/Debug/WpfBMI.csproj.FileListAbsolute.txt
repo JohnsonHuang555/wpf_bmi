@@ -1,0 +1,14 @@
+D:\JohnsonDemo\WpfBMI\WpfBMI\bin\Debug\WpfBMI.exe.config
+D:\JohnsonDemo\WpfBMI\WpfBMI\bin\Debug\WpfBMI.exe
+D:\JohnsonDemo\WpfBMI\WpfBMI\bin\Debug\WpfBMI.pdb
+D:\JohnsonDemo\WpfBMI\WpfBMI\obj\Debug\WpfBMI.csprojResolveAssemblyReference.cache
+D:\JohnsonDemo\WpfBMI\WpfBMI\obj\Debug\MainWindow.g.cs
+D:\JohnsonDemo\WpfBMI\WpfBMI\obj\Debug\App.g.cs
+D:\JohnsonDemo\WpfBMI\WpfBMI\obj\Debug\WpfBMI_MarkupCompile.cache
+D:\JohnsonDemo\WpfBMI\WpfBMI\obj\Debug\WpfBMI_MarkupCompile.lref
+D:\JohnsonDemo\WpfBMI\WpfBMI\obj\Debug\MainWindow.baml
+D:\JohnsonDemo\WpfBMI\WpfBMI\obj\Debug\WpfBMI.g.resources
+D:\JohnsonDemo\WpfBMI\WpfBMI\obj\Debug\WpfBMI.Properties.Resources.resources
+D:\JohnsonDemo\WpfBMI\WpfBMI\obj\Debug\WpfBMI.csproj.GenerateResource.Cache
+D:\JohnsonDemo\WpfBMI\WpfBMI\obj\Debug\WpfBMI.exe
+D:\JohnsonDemo\WpfBMI\WpfBMI\obj\Debug\WpfBMI.pdb
